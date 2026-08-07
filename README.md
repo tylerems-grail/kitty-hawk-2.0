@@ -24,8 +24,8 @@ The Kitty Hawk 2.0 is deliberately open-source because:
 *   **Citizen Scientists** — curious about participating in open-source space exploration.
 
 ## 📂 Repository File Directory
-*   **`master_plan.md`**: Strategic overview, scalable mass-production paradigm, global consortium distribution, and multi-ship redundancy protocols.
-*   **`master_blueprint.md`**: The complete, integrated 13-chapter technical specifications, power budgets, and failure cascade safety paths [1.1].
+*   **`kitty_hawk_master_plan.md`**: Strategic overview, scalable mass-production paradigm, global consortium distribution, and multi-ship redundancy protocols.
+*   **`kitty_hawk_master_blueprint.md`**: The complete, integrated 13-chapter technical specifications, power budgets, and failure cascade safety paths [1.1].
 *   **`DEFENSIVE_FAQ.md`**: Technical reframings, exponential AI timelines, and explicit plain-text rebuttals against classical physics criticisms [1.1].
 *   **`CONTRIBUTING.md`**: Global consortium collaboration rules, peer-review guidelines, and module testing paths [1.1].
 *   **`LICENSE.md`**: Licensed openly under the CERN Open Hardware License (CERN-OHL-W-2.0).
