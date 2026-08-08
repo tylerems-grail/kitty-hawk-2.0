@@ -37,7 +37,7 @@ The Kitty Hawk 2.0 is deliberately open-source because:
 *   **Interface & Autonomy:** Active bio-neural entrainment cradles utilizing optokinetic-scalar phasing VR goggles to filter cognitive noise, combined with an Asymmetrical Cognitive Autonomy Layer (ACAL) that models 10,000 parallel futures to shield the craft from speed-of-light communication latency.
 
 ## 🤝 How to Get Involved
-*   **Engineers & Physicists:** Review the `master_blueprint.md` and submit pull requests with field optimization models or structural refinements [1.1].
+*   **Engineers & Physicists:** Review the kitty_hawk_master_blueprint.md and submit pull requests with field optimization models or structural refinements [1.1].
 *   **AI/Software Developers:** Contribute to the open-source ACAL autonomy layer, bio-neural entrainment logic, or cymatic display interfaces [1.1].
 *   **Material Scientists:** Validate the stratigraphy layers and propose alternative composite or printing improvements.
 *   **Global Citizens:** Share the repository, engage in the open-source discussion forums, and help build the planetary consortium.
@@ -45,7 +45,7 @@ The Kitty Hawk 2.0 is deliberately open-source because:
 See `CONTRIBUTING.md` for full instructions.
 
 ## 🗺️ Project Roadmap
-*   **Phase 1: Blueprint Completion:** Core `master_blueprint.md` and plain-text `DEFENSIVE_FAQ.md` finalized and uploaded [1.1].
+*   **Phase 1: Blueprint Completion:** Core kitty_hawk_master_blueprint.md and plain-text DEFENSIVE_FAQ.md finalized and uploaded [1.1].
 *   **Phase 2: Peer Review & Validation:** Openly inviting global engineering, physics, and AI review across open-source consortium channels [1.1].
 *   **Phase 3: Subsystem Demonstrators:** Initiating sub-scale bench tests for active panel cloaking, laser filamentation, and non-thermal plasma coupling.
 *   **Phase 4: Full Scale Prototype:** Forming the Voluntary Consortium and organizing shared global resource allocation.
